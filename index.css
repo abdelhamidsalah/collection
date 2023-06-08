@@ -1,0 +1,54 @@
+body{
+    background-color: green;
+}
+.words{
+    text-align: center;
+    color: white;
+    padding-top: 10%;
+}
+.bbb{
+    text-align: center;
+    padding-top: 160px;
+}
+.bbb button{
+    padding: 10px;
+    border-radius: 10px;
+}
+.i1{
+    position: absolute;
+    top: 30px;
+    width: 200px;
+    border-radius: 50%;
+}
+.i2
+{
+    position: absolute;
+    right: 20px;
+    top: 35px;
+    width: 200px;
+    border-radius: 50%;
+}
+.i4
+{
+    position: absolute;
+    top: 80px;
+    right: 300px;
+    width: 200px;
+    border-radius: 50%;
+}
+.i3{
+    position: absolute;
+    top: 33px;
+     left: 300px;
+    width: 200px;
+    border-radius: 50%;
+}
+.pan{
+    display: flex;
+    justify-content: center;
+}
+.pan img{
+    border-radius: 50%;
+    width: 150px;
+    margin: 4px;
+}
